@@ -4,9 +4,9 @@
 
 选择合适自己系统的版本，我下载到的版本是Windows版“Git-2.37.1-64-bit.exe”。
 下载完成后进行安装安装进行到Windows Explorer integration的时候，将选项中的"Git Bash Here"和"Git GUI Here"选中打钩：
-![](/image/WindowsExplorerIntegration.png)
+![](./image/WindowsExplorerIntegration.png)
 一路Next，在选择默认编辑器时候按照个人需求选择：
-![](/image/DefaultEditorForGit.png)
+![](./image/DefaultEditorForGit.png)
 一路Next，等待安装完成。
 
 # **Git 使用**
